@@ -1,0 +1,3 @@
+# noexif
+
+noexif
