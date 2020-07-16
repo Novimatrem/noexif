@@ -8,6 +8,8 @@ REQUIRES and DEPENDS UPON ``libimage-exiftool-perl``, or a package that includes
 # Setup
 Append a line in your ``.bashrc``;
 
+```nano /home/$(whoami)/.bashrc```
+
 ```alias noexif=alias noexif="exiftool -all= $1"```
 
 After that, close and re-open all of your Terminal emulators to enable the command to work inside of them.
