@@ -3,7 +3,7 @@ noexif - clear all identifying EXIF data from an image on-demand, easily.
 
 [![Platform: GNU/Linux](https://img.shields.io/badge/platform-GNU/Linux-blue.svg)](www.kernel.org/linux.html)
 
-REQUIRES and DEPENDS UPON ``libimage-exiftool-perl``, or a package that includes equivalent functionality of the ``exiftool`` command- be sure to have it installed.
+REQUIRES and DEPENDS UPON ``libimage-exiftool-perl``, or a package that includes equivalent functionality of the ``exiftool`` command- be sure to have it installed. (On Fedora, for example, this package is known as ``perl-Image-ExifTool``)
 
 # Setup
 Append a line in your ``.bashrc``;
